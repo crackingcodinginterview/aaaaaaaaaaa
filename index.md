@@ -39,3 +39,17 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 {% highlight javascript %}
 console.log('alert');
 {% endhighlight %}
+
+
+<div id="repos">
+    <div class="container">
+        <!-- Filter controls -->
+        <div class="field">
+            <p class="control has-icons-left">
+                <input class="search input" type="text" placeholder="Search repo names">
+                <span class="icon is-left">
+                    <i class="fas fa-search" aria-hidden="true"></i>
+                </span>
+            </p>
+        </div>
+    </div>
